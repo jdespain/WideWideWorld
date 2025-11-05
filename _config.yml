@@ -28,7 +28,7 @@
 # shorter version here, and using the long version as the title of your 
 # homepage (the "title:" in the frontmatter/metadata of index.md).
 
-title: Recovery Hub Digital Edition Template
+title: The Wide Wide World Digital Edition's Exploration of Textual Variants
 
 #############
 # Site URL #
@@ -50,9 +50,7 @@ url: "https://recoveryhub.github.io/"
 # you can do so using the Markdown file index.md.
 
 description: >- 
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear on your home page, in your document 
-  head meta for Google search results, and in your RSS feed.xml site description.
+  This site explores the textual variants of Susan Warner's *The Wide Wide World*.
 
 
 ####################
@@ -107,7 +105,7 @@ banner_size: "half" # change to "full" if you want a full-width image
 # If you decide to set a default here, you can still override it on individual 
 # items by filling in "file_edited_by:" in the item's frontmatter/metadata.
 
-editor: Editor(s) names here
+editor: Jessica DeSpain
 
 
 
@@ -120,29 +118,13 @@ editor: Editor(s) names here
 # appear on the site, remove the '#" from the beginning of the line.
 
 author:
-  name: Your name(s)
-  email: contact-email@example.com
-  institution: Your institution(s) or organization(s)
+  name: Jessica DeSpain
+  email: jdespai@siue.edu
+  institution: Southern Illinois University Edwardsville
 
 #privacy_notice: https://www.example.com/your-privacy-notice-url
 
-#twitter_username: YourUsername
-github_username:  YourUsername
-#dribbble_username: YourUsername
-facebook_username: YourUsername
-#flickr_username: YourUsername
-#instagram_username: YourUsername
-#linkedin_username: YourUsername
-#pinterest_username: YourUsername
-#youtube_username: YourUsername
-#googleplus_username: +YourUsername
-#rss: rss
 
-#mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
 
 
 ##################################
